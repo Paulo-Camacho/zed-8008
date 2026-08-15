@@ -1,0 +1,7 @@
+id = "8008-theme"
+name = "8008 Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Paulo-Camacho <paulocamachoengineer@gmail.com>"]
+description = "A Zed theme inspired by 8008-style keycap set."
+repository = "https://github.com/Paulo-Camacho/zed-8008"
