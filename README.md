@@ -1,9 +1,8 @@
 # zed 8008
 
-a theme for Zed inspired by the GMK 8008 keycap set.
 for the loving of computing and keyboards
 
-a gmk 8008 inspired theme for Zed
+a gmk 8008 inspired theme for zed
 
 **screenshots**
 
